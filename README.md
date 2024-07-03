@@ -34,9 +34,9 @@
 
 ## Key Features
 
-* Multi-lingual turnkey solution for GenAI development and deployment on Linux and Windows
+* Multi-lingual turnkey solution for GenAI development and deployment on Linux, Windows, and macOS
 
-* Concurrent multi-chat, quoting, full prompt-list import/export/share, and more for users
+* Concurrent multi-chat, quoting, full prompt-list import/export/share, text and image generation, and more for users
 
 * Flexible orchestration of prompts x RAGs x bots x models x hardware/GPUs
 
